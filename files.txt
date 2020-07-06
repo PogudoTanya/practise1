@@ -1,1 +1,1 @@
-    Remove a single stashed state from the stash list and apply it on top of the current 
+Pogudo Tatyana
